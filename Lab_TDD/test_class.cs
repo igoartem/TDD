@@ -11,6 +11,13 @@ namespace Lab_TDD
      [TestClass]
     class test_class
     {
+        [TestMethod]
+        public void TestNewGamer()
+        {
+            Gamer gamer = new Gamer();
+            Assert.IsNotNull(gamer);
+        }
+
         
     }
 }
