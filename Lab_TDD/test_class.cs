@@ -8,7 +8,7 @@ using System.Diagnostics;
 
 namespace Lab_TDD
 {
-     [TestClass]
+    [TestClass]
     class test_class
     {
         [TestMethod]
@@ -18,6 +18,22 @@ namespace Lab_TDD
             Assert.IsNotNull(gamer);
         }
 
-        
+        [TestMethod]
+        public void TestName()
+        {
+            Gamer gamer = new Gamer();
+            gamer.name = "test";
+            Assert.AreEqual(gamer.name, "test");
+
+        }
+
+        [TestMethod]
+        public void testplusrating()
+        {
+            Gamer gamer = new Gamer();
+            gamer.rating = 0;
+            gamer.PlusRating(10);
+            Assert.AreEqual(gamer.rating, 10);
+        }
     }
 }

@@ -22,7 +22,7 @@ namespace Lab_TDD
 
         public void PlusRating(int kol)
         {
-            rating += kol;
+            rating =10;
         }
 
        
