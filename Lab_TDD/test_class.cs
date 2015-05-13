@@ -44,5 +44,14 @@ namespace Lab_TDD
             gamer.PlusRating(20);
             Assert.AreEqual(gamer.rating, 20);
         }
+
+        [TestMethod]
+        public void testplusrating3()
+        {
+            Gamer gamer = new Gamer();
+            gamer.rating = 0;
+            gamer.PlusRating(30);
+            Assert.AreEqual(gamer.rating, 30);
+        }
     }
 }
