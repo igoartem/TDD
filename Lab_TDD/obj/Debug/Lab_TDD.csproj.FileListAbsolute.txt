@@ -1,0 +1,20 @@
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\bin\Debug\Lab_TDD.exe.config
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.Properties.Resources.resources
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.csproj.GenerateResource.Cache
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\bin\Debug\Lab_TDD.exe
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\bin\Debug\Lab_TDD.pdb
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.exe
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.pdb
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.Main.resources
+C:\Users\Artem\Documents\Visual Studio 2012\Projects\Lab_TDD\Lab_TDD\obj\Debug\Lab_TDD.NewGamer.resources
+C:\Users\Artem\Desktop\TDD\Lab_TDD\bin\Debug\Lab_TDD.exe.config
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.Main.resources
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.NewGamer.resources
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.Properties.Resources.resources
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.csproj.GenerateResource.Cache
+C:\Users\Artem\Desktop\TDD\Lab_TDD\bin\Debug\Lab_TDD.exe
+C:\Users\Artem\Desktop\TDD\Lab_TDD\bin\Debug\Lab_TDD.pdb
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.exe
+C:\Users\Artem\Desktop\TDD\Lab_TDD\obj\Debug\Lab_TDD.pdb
