@@ -9,7 +9,7 @@ using System.Diagnostics;
 namespace Lab_TDD
 {
     [TestClass]
-    class test_class
+    public class test_class
     {
         [TestMethod]
         public void TestNewGamer()
@@ -34,6 +34,15 @@ namespace Lab_TDD
             gamer.rating = 0;
             gamer.PlusRating(10);
             Assert.AreEqual(gamer.rating, 10);
+        }
+
+        [TestMethod]
+        public void testplusrating2()
+        {
+            Gamer gamer = new Gamer();
+            gamer.rating = 0;
+            gamer.PlusRating(20);
+            Assert.AreEqual(gamer.rating, 20);
         }
     }
 }
