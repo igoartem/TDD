@@ -18,6 +18,7 @@ namespace Lab_TDD
         {
             this.name = name;
             this.number = number;
+            this.rating = 0;
         }
 
         public void PlusRating(int kol)

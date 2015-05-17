@@ -60,5 +60,16 @@ namespace Lab_TDD
         {
 
         }
+
+        private void начатьИгруToolStripMenuItem_Click(object sender, System.EventArgs e)
+        {
+            NewGamer newgame = new NewGamer();
+            newgame.ShowDialog();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

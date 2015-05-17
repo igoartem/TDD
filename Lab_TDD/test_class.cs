@@ -28,6 +28,16 @@ namespace Lab_TDD
         }
 
         [TestMethod]
+        public void TestNumber()
+        {
+            Gamer gamer = new Gamer();
+            gamer.number=10;
+            Assert.AreEqual(gamer.number, 10);
+
+        }
+
+
+        [TestMethod]
         public void testplusrating()
         {
             Gamer gamer = new Gamer();
@@ -53,5 +63,13 @@ namespace Lab_TDD
             gamer.PlusRating(30);
             Assert.AreEqual(gamer.rating, 30);
         }
+
+        [TestMethod]
+        public void TestNewMelody()
+        {
+            Melody melod = new Melody();
+            Assert.IsNotNull(melod);
+        }
+
     }
 }
