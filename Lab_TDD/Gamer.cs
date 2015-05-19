@@ -14,10 +14,9 @@ namespace Lab_TDD
 
         public Gamer() { }
 
-        public Gamer(string name, int number)
+        public Gamer(string name)
         {
             this.name = name;
-            this.number = number;
             this.rating = 0;
         }
 

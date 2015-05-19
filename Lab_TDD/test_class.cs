@@ -27,14 +27,7 @@ namespace Lab_TDD
 
         }
 
-        [TestMethod]
-        public void TestNumber()
-        {
-            Gamer gamer = new Gamer();
-            gamer.number=10;
-            Assert.AreEqual(gamer.number, 10);
-
-        }
+        
 
 
         [TestMethod]
@@ -69,6 +62,22 @@ namespace Lab_TDD
         {
             Melody melod = new Melody();
             Assert.IsNotNull(melod);
+        }
+
+        [TestMethod]
+        public void TestMelodyNameFile()
+        {
+            Melody melod = new Melody();
+            melod.name_file = "file.mp3";
+            Assert.AreEqual(melod.name_file, "file.mp3");
+        }
+
+        [TestMethod]
+        public void TestMelodyNameMelody()
+        {
+            Melody melod = new Melody();
+            melod.name_melody = "Test";
+            Assert.AreEqual(melod.name_melody, "Test");
         }
 
     }

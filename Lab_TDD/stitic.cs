@@ -9,6 +9,9 @@ namespace Lab_TDD
     static class static_class
     {
         public static int kol_gamer;
-        public static List<Gamer> list_gamer;
+        public static Gamer gamer;
+        public static List<Melody> list_melody;
+        public static string put;
+        public static int pp = 10;
     }
 }
